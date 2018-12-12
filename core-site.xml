@@ -17,4 +17,14 @@
 <!-- Put site-specific property overrides in this file. -->
 
 <configuration>
+<property>
+<name>fs.default.name</name>
+<value>hdfs://master:9000</value>
+<final>true</final>
+</property>
+<property>
+<name>hdoop.tmp.dir</name>
+<value>/home/hduser/hadoop2/tmp</value>
+<description>A base for other temporary directory</description>
+</property>
 </configuration>
