@@ -24,7 +24,7 @@
 </property>
 <property>
 <name>hdoop.tmp.dir</name>
-<value>/home/hduser/hadoop2/tmp</value>
+<value>/home/hduser/hadoop-2.9.2/tmp</value>
 <description>A base for other temporary directory</description>
 </property>
 </configuration>

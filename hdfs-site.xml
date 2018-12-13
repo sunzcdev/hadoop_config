@@ -15,12 +15,12 @@
 <configuration>
 <property>
 <name>dfs.name.dir</name>
-<value>/home/hduser/hadoop2/name</value>
+<value>/home/hduser/hadoop-2.9.2/name</value>
 <final>true</final>
 </property>
 <property>
 <name>dfs.name.dir</name>
-<value>/home/hduser/hadoop2/data</value>
+<value>/home/hduser/hadoop-2.9.2/data</value>
 <final>true</final>
 </property>
 <property>
